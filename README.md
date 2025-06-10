@@ -12,7 +12,7 @@ Who purchased more - Men or Women?
 
 What are different order status in 2022?
 
-List top 10 states contributingto the sales?
+List top 5 states contributingto the sales?
 
 Relation between age and gender based on number of orders.
 
